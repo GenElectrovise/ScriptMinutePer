@@ -1,5 +1,5 @@
 // The currently running file
-extern char runningFile[128];
+extern char runningFile[129];
 
-// Tokens
-extern char declare[8];
+// Token a new object declaration
+extern char declare[9];
