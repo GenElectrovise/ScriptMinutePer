@@ -1,6 +1,10 @@
 # ScriptMinutePer
-ScriptMinutePer is a programming language (for which this is primarily the interpreter), with the best wishes of the guys at Clicks Minute Per. (Thanks for your name!). 
+ScriptMinutePer is a programming language designed by GenElectrovise, made originally for absolutely no purpose other than to teach that same original author C.
 
-Anyone wants to complain? Go ask Minion3665 and he'll tell you he let me do this.
+As you can imagine, that means that the interpreter is written in C.
 
-The interpreter is written in C. (Well actually C++ at the time of writing, but it's literally two .cpps and a header and I intend to change that)
+## Syntax
+
+### Tokens
+
+`declare` - begins an object declaration. This can be a function or variable.
